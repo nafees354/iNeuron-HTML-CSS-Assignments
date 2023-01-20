@@ -2,7 +2,7 @@
 
 ### Assignments
 
-1.Street Style LandingPage [URL](https://github.com/nafees354/Street_Style_Landing_Page).
+1.Trend LandingPage [URL](https://github.com/nafees354/Street_Style_Landing_Page).
 
 2.Food resturant HomePage [URL](https://github.com/nafees354/Food_Restaurant_Landing_Page).
 
