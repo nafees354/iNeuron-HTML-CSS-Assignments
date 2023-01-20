@@ -2,32 +2,32 @@
 
 ### Assignments
 
-1.Street Style LandingPage [Source URL] (https://github.com/nafees354/Street_Style_Landing_Page).
+1.Street Style LandingPage [URL](https://github.com/nafees354/Street_Style_Landing_Page).
 
-2.Food resturant HomePage  [Source URL]
+2.Food resturant HomePage [URL](https://github.com/nafees354/Food_Restaurant_Landing_Page).
 
-3.Law LandingPage [Source URL]
+3.Law LandingPage [URL](https://github.com/nafees354/Law_Landing_Page).
 
-4.Digital Marketing LandingPage [Source URL]
+4.Digital Marketing LandingPage [URL](https://github.com/nafees354/Digital_Marketing_Home_Page).
 
-5.Crypto LandingPage [Source URL]
+5.Crypto LandingPage [URL](https://github.com/nafees354/Crypto_Landing_Page).
 
-6.Plant HomePage [Source URL]
+6.Plant HomePage [URL](https://github.com/nafees354/Plant_Home_Page).
 
-7.Product HomePage [Source URL]L
+7.Product HomePage [URL](https://github.com/nafees354/Product_Home_Page).
 
-8.Web Design LandingPage [Source URL]
+8.Web Design LandingPage [URL](https://github.com/nafees354/Web_Design_Landing_Page).
 
-9.Developer LandingPage [Source URL]
+9.Developer LandingPage [URL](https://github.com/nafees354/Developer_Landing_Page).
 
-10.Interior Design LandingPage [Source URL]
+10.Interior Design LandingPage [URL](https://github.com/nafees354/Interior_Designing_Landing_Page).
 
-11.Hosting LandingPage [Source URL]
+11.Hosting LandingPage [URL](https://github.com/nafees354/HostLandingPage).
 
-12.Business LandingPage [Source URL]
+12.Business LandingPage [URL](https://github.com/nafees354/BusinessLandingPage).
 
-13.SAAS LandingPage [Source URL]
+13.SAAS LandingPage [URL](https://github.com/nafees354/SAAS-Landing-Page).
 
-14.Dance LandingPage [Source URL]
+14.Dance LandingPage [URL](https://github.com/nafees354/Dance-Landing-Page).
 
-15.Product Design LandingPage [Source URL]
+15.Product Design LandingPage [URL](https://github.com/nafees354/Product-Design-LandingPage).
