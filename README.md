@@ -22,12 +22,12 @@
 
 10.Interior Design LandingPage [URL](https://github.com/nafees354/Interior_Designing_Landing_Page).
 
-11.Hosting LandingPage [URL](https://github.com/nafees354/HostLandingPage).
+11.Hosting Website [URL](https://github.com/nafees354/HostLandingPage).
 
-12.Business LandingPage [URL](https://github.com/nafees354/BusinessLandingPage).
+12.Business Website [URL](https://github.com/nafees354/BusinessLandingPage).
 
-13.SAAS LandingPage [URL](https://github.com/nafees354/SAAS-Landing-Page).
+13.SAAS Website [URL](https://github.com/nafees354/SAAS-Landing-Page).
 
-14.Dance LandingPage [URL](https://github.com/nafees354/Dance-Landing-Page).
+14.Creatvity LandingPage [URL](https://github.com/nafees354/Dance-Landing-Page).
 
 15.Product Design LandingPage [URL](https://github.com/nafees354/Product-Design-LandingPage).
